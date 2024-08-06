@@ -23,4 +23,3 @@ cd mqtt_broker
 cargo build --release
 ./target/release/mqtt_broker
 cargo run --release
-```
